@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/allan-barrantes-596572178/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 ### Glad to see you around here! 😄
-I am a last year student of Computer Science at University of Costa Rica. I love learning new technologies, traveling, hanging out with friends and food.
+I am a last year student of Computer Science at University of Costa Rica. I love learning new technologies, traveling, hanging out with friends and trying new foods.
 
-As a student I've gotten experience in programming with paradigms like Object Oriented Programming using languages like Java and C++. I also have experience as a junior in web development, mostly front-end, using HTML/CSS/BootStrap and frameworks like React.js with SaaS (I'm still in the process of learning React, which I'm enjoying a lot). You can see more of my experience on my resume
+As a student I've gotten experience in programming with paradigms like Object Oriented Programming using languages like Java and C++. I also have experience as a junior in web development, mostly front-end, using HTML/CSS/BootStrap and frameworks like React.js with SaaS (I'm still in the process of learning React, which I'm enjoying a lot). You can see more of my experience on my [resume](./README.md).
 
 <!--
 **allanbees/allanbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
