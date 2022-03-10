@@ -20,7 +20,7 @@ As a student I've gotten experience in programming with paradigms like Object Or
 
 ### How my week looked 📈
 
-[![allanbees's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=allanbees)]
+![allanbees's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=allanbees)]
 
 ### My GitHub Stats 📊 
 
