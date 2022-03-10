@@ -7,6 +7,8 @@ I am a last year student of Computer Science at University of Costa Rica. I love
 
 As a student I've gotten experience in programming with paradigms like Object Oriented Programming using languages like Java and C++. I also have experience as a junior in web development, mostly front-end, using HTML/CSS/BootStrap and frameworks like React.js with SaaS (I'm still in the process of learning React, which I'm enjoying a lot). You can see more of my experience on my [resume](./CV.pdf).
 
+<img align="right" src="./giphy.gif">
+
 <a href="https://www.freepik.com/vectors/technology">Technology vector created by macrovector - www.freepik.com</a>
 
 - 🌱👨🏻‍💻 I’m currently working at [Cargill](https://www.cargill.com/) as an IT Trainee, where I'll be learning with Office 365 developers using technologies like SharePoint, Power Apps and Power Automate providing solutions to clients in different countries. 
