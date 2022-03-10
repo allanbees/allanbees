@@ -47,5 +47,5 @@ As a student I've gotten experience in programming with paradigms like Object Or
 ### My GitHub Stats 📊 
 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=allanbees&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbees&layout=compact">
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=allanbees&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbees&layout=compact">
