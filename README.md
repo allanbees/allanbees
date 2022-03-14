@@ -15,7 +15,7 @@ As a Computer Science student I've gotten experience in programming with paradig
 - 🌱👨🏽‍💻 I’m currently working at [Cargill](https://www.cargill.com/) as an IT Trainee, where I'll be learning with Office 365 developers using technologies like SharePoint, Power Apps and Power Automate providing solutions to clients in different countries. 
 - 🌎👨🏻‍🎓 Goals: my main goal right now is focusing on defining my career path in which I intend to go towards Data Science/Machine Learning/Web and Apps Development. As well as working hard to move to another country (hoping it is USA or somewhere in Europe).
 - 🤖 I’m looking to collaborate on any projects that bring me any new skills and knowledge.
-- 💬 Feel free to contact me for any recommendations, job offers or collaborations that can help grow. Everything is appreciated.
+- 💬 Feel free to contact me for any recommendations, job offers or collaborations. Everything is appreciated.
 - 📫 How to reach me: contact me on my [LinkedIn](https://www.linkedin.com/in/allan-barrantes-596572178/) or [Gmail](mailto:allandbc1202@gmail.com).
 - ⚡ Fun fact: I've had three dogs named Scooby-Doo (now I have a Siberian Husky named Max 🐺). 
 
