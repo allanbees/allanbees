@@ -4,15 +4,14 @@
 
 ### Glad to see you around here! 😄
 
-I am a last year student of Computer Science at University of Costa Rica. I love learning new technologies, traveling, hanging out with friends and trying new foods. I first got enthralled with programming around 2016 when I decided to build a website for my dad using Adobe Dreamweaver, I had never done something like that before and it was a real challenge for myself at the time but I ended up enjoying the process. At the same time I was building that website, it was time for me to choose a career as I was about to enter university, it's funny to think that one day before I made a decision I had no clue what I wanted. I ended up choosing Computer Science because I realized I liked building that simple website and I preferred more technical stuff.
-
-As a Computer Science student I've gotten experience in programming with paradigms like Object Oriented Programming using Java, C++ and other programming languages. I also have gotten more experience in web development, mostly front-end, evolving from that high school kid using Dreamwever that had no clue of what a programming language was, to now using HTML/CSS/JavaScript/BootStrap and frameworks like React.js with SaaS (I'm still in the process of learning React, which I'm enjoying a lot). I've also realized how much I enjoy the world of Computer Science because of how big it is and the amount of innovation there is, as well as the amount of possibilities for professional growth available.  I'll leave my [resume](./CV.pdf) here in case you want to see a bit more about my current experience.
+I am a last year student of Computer Science at University of Costa Rica. I love learning new technologies, traveling, hanging out with friends and trying new foods. 
+Recently I've been really interested in learning React.js, Node.js and different technologies for web development.
 
 ### About me:
 
 <img align="right" width="35%" src="./coding.gif">
 
-- 🌱👨🏽‍💻 I’m currently working at [Cargill](https://www.cargill.com/) as an IT Trainee, where I'll be learning with Office 365 developers using technologies like SharePoint, Power Apps and Power Automate providing solutions to clients in different countries. 
+- 🌱👨🏽‍💻 I’m currently working at [Cargill](https://www.cargill.com/) as an IT Intern, where I'll be learning with Office 365 developers using technologies like SharePoint, Power Apps and Power Automate. 
 - 🌎👨🏻‍🎓 Goals: my main goal right now is focusing on defining my career path in which I intend to go towards Data Science/Machine Learning/Web and Apps Development. As well as working hard to move to another country (hoping it is USA or somewhere in Europe).
 - 🤖 I’m looking to collaborate on any projects that bring me any new skills and knowledge.
 - 💬 Feel free to contact me for any recommendations, job offers or collaborations. Everything is appreciated.
@@ -44,9 +43,3 @@ As a Computer Science student I've gotten experience in programming with paradig
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <hr/>
-
-### My GitHub Stats 📊 
-
-
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=allanbees&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbees&layout=compact">
