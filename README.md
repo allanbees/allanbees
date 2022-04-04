@@ -12,7 +12,7 @@ Recently I've been really interested in learning React.js, Node.js and different
 <img align="right" width="35%" src="./coding.gif">
 
 - 🌱👨🏽‍💻 I’m currently working at [Cargill](https://www.cargill.com/) as an IT Intern, where I'll be learning with Office 365 developers using technologies like SharePoint, Power Apps and Power Automate. 
-- 🌎👨🏻‍🎓 Goals: my main goal right now is focusing on defining my career path in which I intend to go towards Data Science/Machine Learning/Web and Apps Development. As well as working hard to move to another country (hoping it is USA or somewhere in Europe).
+- 🌎👨🏻‍🎓 Goals: get into the world of Data Science/Machine Learning/Web and Apps Development. I also want to travel to as many countries as possible.
 - 🤖 I’m looking to collaborate on any projects that bring me any new skills and knowledge.
 - 💬 Feel free to contact me for any recommendations, job offers or collaborations. Everything is appreciated.
 - 📫 How to reach me: contact me on my [LinkedIn](https://www.linkedin.com/in/allan-barrantes-596572178/) or [Gmail](mailto:allandbc1202@gmail.com).
